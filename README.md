@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)]
+![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Janvi Chhura</h1>
 <h3 align="center">A Tech Enthusiast and Android Developer, interested in Fullstack App Development and Creating End to End Projects.</h3>
 
